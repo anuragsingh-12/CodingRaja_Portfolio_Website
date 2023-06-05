@@ -1,0 +1,90 @@
+/* Reset default styles */
+body{
+    background-color: rgb(40, 31, 87);
+    text-align: center;
+    box-shadow: #c12f2f;
+    justify-content: center;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+  }
+  
+  /* Style the header and navigation */
+  header {
+    background-color: #333;
+    padding: 20px;
+  }
+  container{
+    background-color: aqua;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Style the sections */
+  section {
+    padding: 50px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 80px;
+    margin-top: 150px;
+    background-color: aqua;
+
+  }
+  .container-1 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 80px;
+    margin-top: 150px;
+    background-color: aqua;
+
+  }
+  .container-2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 80px;
+    margin-top: 150px;
+    background-color: aqua;
+
+  }
+  
+  /* Style the contact form */
+  #contact-form input, #contact-form textarea, #contact-form button {
+    display: flex;
+    margin-bottom: 10px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+  button{
+    background-color: rgb(35, 209, 102);
+    color: #fff;
+    font-style: bold;
+    
+  }
+  /* Style the footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
